@@ -40,7 +40,10 @@ A high-performance e-commerce backend using Fastify, GraphQL, PostgreSQL, and Re
 
 ---
 
-## Project Structure
+## Project Structure (Modular Monolith)
+- Scalable architecture for microservice.
+- Event driven approach
+  
 ```bash
 /turbo-shop-api
 │── src/
